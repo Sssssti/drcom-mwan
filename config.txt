@@ -1,0 +1,15 @@
+server = '172.16.8.10'
+username=''
+password=''
+CONTROLCHECKSTATUS = '\x20'
+ADAPTERNUM = '\x04'
+host_ip = '172.21.133.89'
+IPDOG = '\x01'
+host_name = 'GILIGILIEYE'
+PRIMARY_DNS = '172.16.10.36'
+dhcp_server = '172.21.133.1'
+AUTH_VERSION = '\x2b\x00'
+mac = 0xe0d55e6f2d5a
+host_os = 'NOTE7'
+KEEP_ALIVE_VERSION = '\xdc\x02'
+ror_version = False 
